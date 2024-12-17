@@ -1,0 +1,8 @@
+#ignoring generated python cache files on ubuntu
+__pycache__/
+#ignoring virtual environment generated folder on ubuntu
+venv/
+#temp files
+Temps/
+#test case files
+testcases/
